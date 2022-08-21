@@ -54,6 +54,10 @@
 
 -------
 
+### 10.Program for DHT_SMOKE_SENSOR
+  [Click Here](https://github.com/SKsaikiran/Arduion_uno_Shield/blob/1720060b0a1d9752df1533f8cfbea49b4dc5897d/DHT_SMOKE_SENSOR/DHT_SMOKE_SENSOR.ino)
+
+-------
 | **Components** | **Pin Used** |
 |:----:|:----:|
 |RELAY|2|
