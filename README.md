@@ -54,7 +54,12 @@
 
 -------
 
-### 10.Program for DHT_SMOKE_SENSOR
+### 10.Program for DHT22
+  [Click Here](https://github.com/SKsaikiran/Arduion_uno_Shield/blob/6b383beea968f0db95df0e81c0264ce6f3e61234/DHT_22/DHT_22.ino)
+
+-------
+
+### 11.Program for DHT_SMOKE_SENSOR
   [Click Here](https://github.com/SKsaikiran/Arduion_uno_Shield/blob/1720060b0a1d9752df1533f8cfbea49b4dc5897d/DHT_SMOKE_SENSOR/DHT_SMOKE_SENSOR.ino)
 
 -------
@@ -62,6 +67,7 @@
 |:----:|:----:|
 |RELAY|2|
 |BUZZER|3|
+|DHT|4|
 |SERVO|5|
 |RGB BLUE|9|
 |RGB GREEN|10|
