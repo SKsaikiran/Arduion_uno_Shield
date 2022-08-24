@@ -10,8 +10,8 @@ DHT_Unified dht(DHTPIN, DHTTYPE);
 
 void setup() 
 {
-  Serial.begin(9600);
-  dht.begin();
+ Serial.begin(9600);
+ dht.begin();
 }
 
 void loop() 
