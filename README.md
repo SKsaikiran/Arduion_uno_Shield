@@ -18,12 +18,14 @@
   
   -------
   
-### 2.Program for BUZZER
-  [Click Here](https://github.com/SKsaikiran/Arduion_uno_Shield/blob/61b274dcc4b36a11949e1b44408a4f29bf003161/Buzzer/Buzzer.ino)
+| **2.Program for BUZZER** |
+|:------|
+| [Click Here](https://github.com/SKsaikiran/Arduion_uno_Shield/blob/61b274dcc4b36a11949e1b44408a4f29bf003161/Buzzer/Buzzer.ino)|
   
   --------
-### 3.Program for HALL-EFFECT Sensor
-  [Click Here](https://github.com/SKsaikiran/Arduion_uno_Shield/blob/61b274dcc4b36a11949e1b44408a4f29bf003161/HALL-EFFECT/HALL-EFFECT.ino)
+| **3.Program for HALL-EFFECT Sensor** |
+|:------|
+ | [Click Here](https://github.com/SKsaikiran/Arduion_uno_Shield/blob/61b274dcc4b36a11949e1b44408a4f29bf003161/HALL-EFFECT/HALL-EFFECT.ino)|
   
   --------
   
